@@ -4,7 +4,6 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import Todoinput from "./components/Todoinput";
 import Todolist from "./components/Todolist";
 
-//class based component
 export default class App extends Component {
   state = {
     items: [{ id: 1, title: "wake up" }],
