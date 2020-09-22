@@ -39,6 +39,3 @@ export default class Todoinput extends Component {
     );
   }
 }
-
-// function of ternary operator above: to change text of button when edit item is clicked,classname when edit item is clicked
-//disabled attribute disables the button when nothing is written in input box else enables it when text is entered.
